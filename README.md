@@ -7,7 +7,6 @@ The website allows users to:
 - Explore different ice cream flavors with smooth animations.
 - View flavor details and images dynamically.
 - Access a responsive navigation bar with a hamburger menu for mobile.
-- Place an order (via the "Order Your Ice-Cream" button).
 
 The website is fully responsive, modern, and designed for an engaging user experience.
 
