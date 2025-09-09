@@ -50,17 +50,12 @@ IceCream/
 
 ---
 
-## Setup and Deployment Instructions
+## 📦 Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Aditya4kushwaha/Chillz.git
-cd Chillz
+1. Clone the repo - git clone https://github.com/Aditya4kushwaha/Meme-Generator.git
 
-## 💻 Run the Code
+2. Install dependencies - npm install
 
-```bash
-cd file
-npm install
-npm run dev
-```
+3. Start the dev server - npm run dev
+
+4.  Build for production - npm run build
