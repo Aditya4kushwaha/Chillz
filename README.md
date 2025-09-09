@@ -55,7 +55,7 @@ IceCream/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Aditya4kushwaha/Chillz.git
-cd icecream
+cd Chillz
 
 ## 💻 Run the Code
 
